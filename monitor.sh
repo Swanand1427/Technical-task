@@ -119,4 +119,4 @@ if [ "$#" -eq 0 ]; then
     done
 fi
 
-sudo apt-get install nginx -y
+
